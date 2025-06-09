@@ -35,7 +35,6 @@ Power BI, Tableau, Python, SQL, pandas, NumPy, matplotlib, scikit-learn, Automat
 > **Power BI, DAX, Excel**  
 > Designed a dynamic dashboard for multi-year sales and supplier analysis, automating KPI reporting and supporting real-time business decisions.
 
-*(Add more projects with brief one-liners and links!)*
 
 ---
 
@@ -55,8 +54,8 @@ Power BI, Tableau, Python, SQL, pandas, NumPy, matplotlib, scikit-learn, Automat
 ## 🌐 Let’s Connect!
 
 - **LinkedIn:** [linkedin.com/in/nishantshendkar](https://linkedin.com/in/nishantshendkar)
-- **Portfolio:** [datascienceportfol.io/your-link](#)
-- **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
+- **Portfolio:** [datascienceportfol.io/nishant_shendkar](#)
+- **Email:** [your.email@gmail.com](mailto:nshendkar99@gmail.com)
 
 ---
 
